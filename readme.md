@@ -1,4 +1,4 @@
-# ASP.NET AngularJS Demo with Component based design
+# ASP.NET AngularJS Demo with component based design
 
 This repository offers you a demo application implemented with AngularJS (Component based design) and an endpoint using ASP.NET WebAPI.
 
