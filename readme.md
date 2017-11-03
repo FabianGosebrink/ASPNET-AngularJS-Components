@@ -1,4 +1,4 @@
-# ASP.NET AngularJS Demo with Component based design & Lazy Loading  runnable on every Platform (Cross Platform)
+# ASP.NET AngularJS Demo with Component based design
 
 This repository offers you a demo application implemented with AngularJS (Component based design) and an endpoint using ASP.NET WebAPI.
 
